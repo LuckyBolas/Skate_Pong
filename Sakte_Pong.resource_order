@@ -17,6 +17,7 @@
     {"name":"obj_roda","order":3,"path":"objects/obj_roda/obj_roda.yy",},
     {"name":"obj_rodante","order":10,"path":"objects/obj_rodante/obj_rodante.yy",},
     {"name":"obj_skate_p2","order":2,"path":"objects/obj_skate_p2/obj_skate_p2.yy",},
+    {"name":"obj_skate_p3","order":11,"path":"objects/obj_skate_p3/obj_skate_p3.yy",},
     {"name":"rm_final_p1","order":2,"path":"rooms/rm_final_p1/rm_final_p1.yy",},
     {"name":"rm_final_p2","order":3,"path":"rooms/rm_final_p2/rm_final_p2.yy",},
     {"name":"rm_partida","order":1,"path":"rooms/rm_partida/rm_partida.yy",},
