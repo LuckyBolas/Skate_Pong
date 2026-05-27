@@ -1,0 +1,43 @@
+1 fazer o objeto do skate se movimentar para cima e para baixo - feito
+
+2. fazer a colisão para o skate não sair da room - feito
+
+3. fazer a movimentação do segundo player (skate 2) - feito
+
+4. fazer um objeto para a roda se movimentar quicando nas colisões - feito
+   (a bola desse jogo será uma rodinha de skate)
+
+5. randomizar a direção da roda - feito
+
+6. fazer a roda esperar 2 segundos - feito
+
+7. fazer a roda aumentar a velocidade toda vez que bate no skate - feito
+
+8. fazer uma colisão do gol - feito
+
+9. fazer a ia do skate 2 - feito (depois de muito tempo)
+
+10. fazer o placar - feito
+
+11. fazer o player 1 e player 2 fazerem gol - feito
+
+12. zerar a velocidade da bola quando fizer gol - feito
+
+13. reiniciar a posição dos skates quando fizer gol - feito
+
+14. fazer a partida acabar quando um dos skates fizer 3 gols - feito
+
+15. fazer uma tela diferente para a vitória de cada skate - feito
+
+16. fazer uma tela de menu com um botão de iniciar o jogo - feito
+
+17. fazer uma tela com um botão de try again quando a partida acabar - feito
+
+18. fazer um botão de voltar ao menu na tela do try again - feito
+
+19. no menu, fazer um botão para trocar o modo de jogo - feito
+
+20. fazer todos os sprite - 
+
+
+

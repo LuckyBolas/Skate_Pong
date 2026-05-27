@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"etapas",
+  "name":"etapas",
+  "parent":{
+    "name":"Sakte_Pong",
+    "path":"Sakte_Pong.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

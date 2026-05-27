@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_coisas",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_coisas",
+  "parent":{
+    "name":"Sakte_Pong",
+    "path":"Sakte_Pong.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
