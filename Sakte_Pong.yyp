@@ -34,6 +34,7 @@
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
     {"id":{"name":"obj_placar","path":"objects/obj_placar/obj_placar.yy",},},
+    {"id":{"name":"obj_roda_2","path":"objects/obj_roda_2/obj_roda_2.yy",},},
     {"id":{"name":"obj_roda","path":"objects/obj_roda/obj_roda.yy",},},
     {"id":{"name":"obj_rodante","path":"objects/obj_rodante/obj_rodante.yy",},},
     {"id":{"name":"obj_skate_p1","path":"objects/obj_skate_p1/obj_skate_p1.yy",},},
