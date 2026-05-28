@@ -1,0 +1,1 @@
+sprite_index = spr_button_try_again_1;

@@ -26,3 +26,4 @@ else
 	image_speed = 1;
 	indo = true;
 }
+

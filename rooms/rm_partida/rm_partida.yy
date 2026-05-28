@@ -13,7 +13,8 @@
     {"name":"inst_F9B280B1","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_39BBA6B0_1","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_32D75A37_1","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_14781FC7","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_1FC58879","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_454A67D8","path":"rooms/rm_partida/rm_partida.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -31,7 +32,8 @@
         {"$GMRInstance":"v4","%Name":"inst_39BBA6B0_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39BBA6B0_1","objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"propertyId":{"name":"gol_player","path":"objects/obj_gol/obj_gol.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.0",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.75,"x":640.0,"y":0.0,},
-        {"$GMRInstance":"v4","%Name":"inst_14781FC7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_14781FC7","objectId":{"name":"obj_skate_p3","path":"objects/obj_skate_p3/obj_skate_p3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":496.0,"y":112.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1FC58879","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1FC58879","objectId":{"name":"obj_skate_p2","path":"objects/obj_skate_p2/obj_skate_p2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":496.0,"y":112.0,},
+        {"$GMRInstance":"v4","%Name":"inst_454A67D8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_454A67D8","objectId":{"name":"obj_skate_p2","path":"objects/obj_skate_p2/obj_skate_p2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":496.0,"y":112.0,},
       ],"layers":[],"name":"skates","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
